@@ -1,0 +1,37 @@
+.bg-test{
+    background-color: #061952;
+}
+
+.bg-bluelight{
+    background-color: #607EAA;
+}
+
+
+.bg-creamlight{
+    background-color: #acaa89;
+}
+
+.font-title-costum{
+    font-family: 'Barlow';
+    font-weight: bold;
+}
+
+#btnScrollUp {
+    display: none;
+    position: fixed;
+    bottom: 21px;
+    right: 21px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: #254068;
+    color: white;
+    cursor: pointer;
+    padding: 16px;
+    border-radius: 35px;
+    font-size: 12px;
+}
+
+#btnScrollUp:hover {
+    background-color: #607EAA
+}
